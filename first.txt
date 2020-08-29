@@ -1,2 +1,3 @@
 Hi hefaz  
-welcome to  DevOps Training  room
+welcome to  DevOps Training room
+A new line added
